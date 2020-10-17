@@ -7,6 +7,7 @@ We all want members, don't we? So it is obviously a bonus to add your server to 
 #### Setup
 **Bump Channel** The channel BB will send reminders in: "bb setchannel #CHANNEL"  
 **Bump Role** A role that BB will ping when the bump is ready: "bb setrole @ROLE"
+![Setup Image](https://github.com/j4asper/bumpbuddy/blob/main/setup.PNG)
 
 #### Other
 **Channel** See the current bump channel: "bb channel"  
