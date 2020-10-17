@@ -1,6 +1,8 @@
 # Bump Buddy
 ### A bot that helps your server grow, by reminding you to bump your server on Disboard!
 
+**[Click here to invite the bot](https://discord.com/api/oauth2/authorize?client_id=765598792535244820&permissions=281664&scope=bot)**
+
 We all want members, don't we? So it is obviously a bonus to add your server to a site like Disboard, but when you do that, you forget to bump your server all the time, loosing a couple of members every time. Invite Bump Buddy! Be reminded to bump, and gain members!
 
 ## Commands:
