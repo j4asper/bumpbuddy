@@ -40,6 +40,6 @@ We all want members, don't we? So it is obviously a bonus to add your server to 
 
 ## Setting it up
 
-### Set a bump channel  
+**Set a bump channel**  
 This will be the channel where reminder messages are sent.  
 ![bump-channel](/images/bump_channel.png)
