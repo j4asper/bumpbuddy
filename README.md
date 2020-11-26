@@ -37,3 +37,7 @@ We all want members, don't we? So it is obviously a bonus to add your server to 
 #### It doesn't get any easier!  
 
 **--------------------------------------------------------------**
+
+## Setting it up
+
+![bump-channel](/images/bump_channel.png)
