@@ -40,6 +40,6 @@ We all want members, don't we? So it is obviously a bonus to add your server to 
 
 ## Setting it up
 
-**Set a bump channel**  
-This will be the channel where reminder messages are sent.  
+**Set a bump channel and role**  
+The Bump channel is the channel where bump reminders are sent. If a bump role is set, the role will be mentioned when the server can be bumped.   
 ![bump-channel](/images/bump_channel.png)
