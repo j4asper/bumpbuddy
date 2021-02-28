@@ -1,4 +1,4 @@
-# [Bump Buddy](https://discord.bots.gg/bots/765598792535244820)
+# [Bump Buddy](https://discord.bots.gg/bots/765598792535244820) - Not updated yet
 ### A bot that helps your server grow, by reminding you to bump your server on Disboard!
 
 Join the [support server](https://discord.gg/RFMkhhx) if you need help with anything!
