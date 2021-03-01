@@ -46,9 +46,15 @@ You can see 3 different ways to set the bump reminder role, this is the role tha
 ![image](images/setrole.PNG)  
 Ignore the bold text.
 
+To confirm that the change has taken place, you can type **bb role** and a message from bump buddy should appear, saying what bump role you currently have set up.  
+![image](images/setrole_confirmed.PNG)  
+
 
 
 ### bb setchannel \<Channel>  
 The reminder channel will be the channel where bump reminders are sent. If you don't have it set up, it will be the channel where the bump was performed. Also the bump channel makes it possible to get messages/announcements from the support server, fx. new updates, bugs etc. The channel can only be set by mentioning the channel, as on the image below.  
 
 ![image](images/setchannel.PNG)  
+
+To confirm that the change has taken place, you can type **bb channel** and a message from bump buddy should appear, saying what bump channel you currently have set up.  
+![image](images/setchannel_confirmed.PNG)  
