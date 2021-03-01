@@ -46,6 +46,10 @@ You can see 3 different ways to set the bump reminder role, this is the role tha
 ![image](images/setrole.PNG)  
 Ignore the bold text.
 
+But what if you want to set @here or @everyone as the bump role? You simple type **bb setrole here** or **bb setrole everyone** without mentioning anyone, look at the image below.  
+
+![image](images/setrole1.PNG)  
+
 To confirm that the change has taken place, you can type **bb role** and a message from bump buddy should appear, saying what bump role you currently have set up.  
 ![image](images/setrole_confirmed.PNG)  
 
