@@ -48,4 +48,7 @@ Ignore the bold text.
 
 
 
-  
+### bb setchannel \<Channel>  
+The reminder channel will be the channel where bump reminders are sent. If you don't have it set up, it will be the channel where the bump was performed. Also the bump channel makes it possible to get messages/announcements from the support server, fx. new updates, bugs etc. The channel can only be set by mentioning the channel, as on the image below.  
+
+![image](images/setchannel.PNG)  
