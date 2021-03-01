@@ -43,5 +43,5 @@ We all want members, don't we? So it is obviously a bonus to add your server to 
 **bb setrole <Role>**
 You can see 3 different ways to set the bump reminder role, this is the role that will be mentioned when 2 hours has passed and the server can be bumped.
 
-[image](images/setrole.png)
+[image](images/setrole.PNG)
   
