@@ -53,7 +53,7 @@ But what if you want to set @here or @everyone as the bump role? You simple type
 To confirm that the change has taken place, you can type **bb role** and a message from bump buddy should appear, saying what bump role you currently have set up.  
 ![image](images/setrole_confirmed.PNG)  
 
-
+---
 
 ### bb setchannel \<Channel>  
 The reminder channel will be the channel where bump reminders are sent. If you don't have it set up, it will be the channel where the bump was performed. Also the bump channel makes it possible to get messages/announcements from the support server, fx. new updates, bugs etc. The channel can only be set by mentioning the channel, as on the image below.  
@@ -62,3 +62,12 @@ The reminder channel will be the channel where bump reminders are sent. If you d
 
 To confirm that the change has taken place, you can type **bb channel** and a message from bump buddy should appear, saying what bump channel you currently have set up.  
 ![image](images/setchannel_confirmed.PNG)  
+
+---
+
+### bb setmsg \<Some Custom Message>  
+This command is used to change the embedded message that is sent when you server can be bumped. By default it looks like this:  
+![image](images/setmsg_default.PNG)  
+
+How do you change this message? You simple use the commands **bb setmsg**. Lets say you want the title of the embed to be "Timer is up" and the description to be "This server can be bumped now!", then you would type: **bb setmsg Timer is up | This server can be bumped now!**, see the image below:  
+![image](images/setmsg.PNG)  
